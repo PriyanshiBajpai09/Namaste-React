@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "@babel/preset-react": "^7.27.1",
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "this is react by kavya",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PriyanshiBajpai09/Namaste-React.git"
+  },
+  "author": "Priyanshi Bajpai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PriyanshiBajpai09/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/PriyanshiBajpai09/Namaste-React#readme"
+}
